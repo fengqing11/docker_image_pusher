@@ -1,5 +1,1 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
-adguard/adguardhome:v0.107.51
-whyour/qinglong:2.17.5
+openjdk:8
